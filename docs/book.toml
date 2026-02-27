@@ -1,0 +1,6 @@
+[book]
+authors = ["AndreaMoschetto"]
+language = "en"
+multilingual = false
+src = "chapters"
+title = "WeaviateSG"
