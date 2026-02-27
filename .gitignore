@@ -2,3 +2,4 @@ docs/book
 venv
 
 .DS_Store
+.env
