@@ -4,7 +4,7 @@ Welcome to the companion repository for the Weaviate Retrieval-Augmented Generat
 
 ## 📖 Documentation
 The complete, step-by-step guide is built with mdBook. 
-You can read the tutorial online here: **[Insert your GitHub Pages Link here]**
+You can read the tutorial online here: **https://andreamoschetto.github.io/WeaviateSG**
 
 ## 💻 Code Structure
 All Python scripts mentioned in the tutorial are available in the `code/` directory. They are meant to be executed sequentially:
