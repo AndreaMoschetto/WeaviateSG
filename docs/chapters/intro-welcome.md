@@ -24,8 +24,12 @@ To get the most out of this tutorial, you don't need to be a machine learning ex
 
 Ready to build your first AI-powered search engine? Let's dive in!
 
-### Repository
+#### Repository
+
+
 Inside the [github repository](https://github.com/AndreaMoschetto/WeaviateSG) you can find a fully working implementation the code you're going to see in this guide
+
 ---
 
+**Credits**
 *This guide is writter by [Andrea Moschetto](https://andreamoschetto.github.io/) as an academic course project under the supervision of Professor [Alfredo Pulvirenti](https://web.dmi.unict.it/docenti/alfredo.pulvirenti)*
