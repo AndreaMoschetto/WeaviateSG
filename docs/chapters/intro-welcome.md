@@ -6,7 +6,7 @@ In recent years, the explosion of Large Language Models (LLMs) like ChatGPT has 
 
 This is where **Vector Databases** and the **RAG (Retrieval-Augmented Generation)** architecture come into play. They are the missing link that allows AI models to dynamically read, understand, and use *your* specific data to generate accurate answers.
 
-## 🎯 The Goal of This Guide
+## The Goal of This Guide
 
 This tutorial was created as a practical, hands-on resource for our Big Data course. The main objective is to move from theory to practice without getting bogged down in unnecessary complexity. 
 
@@ -15,7 +15,7 @@ By the end of this guide, you will be able to:
 * Set up and interact with **Weaviate**, a leading open-source Vector Database.
 * Build a foundational **RAG pipeline** from scratch using Python.
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 To get the most out of this tutorial, you don't need to be a machine learning expert. You only need:
 * A basic understanding of **Python**.
@@ -23,3 +23,7 @@ To get the most out of this tutorial, you don't need to be a machine learning ex
 * Curiosity about how AI actually searches and retrieves information under the hood.
 
 Ready to build your first AI-powered search engine? Let's dive in!
+
+---
+
+This guide is writter by [Andrea Moschetto](https://andreamoschetto.github.io/) as an academic course project
