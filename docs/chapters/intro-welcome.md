@@ -26,4 +26,4 @@ Ready to build your first AI-powered search engine? Let's dive in!
 
 ---
 
-This guide is writter by [Andrea Moschetto](https://andreamoschetto.github.io/) as an academic course project
+*This guide is writter by [Andrea Moschetto](https://andreamoschetto.github.io/) as an academic course project under the supervision of Professor [Alfredo Pulvirenti](https://web.dmi.unict.it/docenti/alfredo.pulvirenti)*
