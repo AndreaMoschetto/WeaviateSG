@@ -15,6 +15,8 @@ By the end of this guide, you will be able to:
 * Set up and interact with **Weaviate**, a leading open-source Vector Database.
 * Build a foundational **RAG pipeline** from scratch using Python.
 
+*If you don't need this guide, just ignore it and go read the [full weaviate documentation](https://weaviate.io)*
+
 ## Prerequisites
 
 To get the most out of this tutorial, you don't need to be a machine learning expert. You only need:
@@ -25,8 +27,6 @@ To get the most out of this tutorial, you don't need to be a machine learning ex
 Ready to build your first AI-powered search engine? Let's dive in!
 
 #### Repository
-
-
 Inside the [github repository](https://github.com/AndreaMoschetto/WeaviateSG) you can find a fully working implementation the code you're going to see in this guide
 
 ---
