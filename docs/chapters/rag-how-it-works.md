@@ -2,6 +2,7 @@
 
 **Retrieval-Augmented Generation (RAG)** might sound like a complex academic term, but the concept is actually very straightforward. Think of it as giving an AI an "open-book exam." Instead of relying on its flawed internal memory, the AI is allowed to look up the exact facts in a trusted database before answering.
 
+![](../imgs/rag_scheme.png)
 
 
 A standard RAG pipeline is always divided into three distinct phases: **Ingestion**, **Retrieval**, and **Generation**.
@@ -23,6 +24,7 @@ Now the system is ready for the user.
 This is where the magic happens. We don't just show the raw retrieved chunks to the user; we use an LLM to synthesize a perfect answer.
 1. **Prompt Construction:** We build a prompt that combines the user's original question with the text of the retrieved chunks. We give the LLM strict instructions: *"Answer the user's question using ONLY the provided context."*
 2. **Final Output:** The LLM reads the context, understands it, and generates a natural, accurate, and conversational response for the user. No hallucinations, just facts!
+
 
 ---
 
